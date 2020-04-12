@@ -35,3 +35,7 @@ Learning Git is super fuckin important!!!!!!!!
 Also a great way to start your own fun projects 
 
 */
+
+/* what is node?
+a place to write javascript
+*/
