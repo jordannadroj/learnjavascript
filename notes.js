@@ -39,3 +39,28 @@ Also a great way to start your own fun projects
 /* what is node?
 a place to write javascript
 */
+
+/* GIT:
+creates a git repo
+git init 
+
+adds your code to the repo
+git add .
+
+commits your changes
+commit -m "this is my merge message"
+
+pushes your code ot the internet
+git push
+
+Type this command when you push for the first time
+git push --set-upstream origin newmaster 
+
+git checkout -b newBranch
+
+
+
+
+should you enter vim message error i know it makes no sense but...
+i "type message" press esc key :wq
+*/
